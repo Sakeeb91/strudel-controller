@@ -2,6 +2,8 @@
 
 A web-based button grid controller for live music performance, inspired by hardware drum machines and live coding environments like Strudel/TidalCycles.
 
+![Strudel Controller Interface](assets/screenshot.jpg)
+
 ## About
 
 Strudel Controller provides a visual, button-based interface for triggering and layering audio patterns in real-time. Instead of typing code to create music, you press buttons on a 4x4 grid to activate patterns, adjust parameters with sliders, and build up complex layered compositions.
