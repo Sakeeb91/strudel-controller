@@ -2,7 +2,7 @@
 
 A web-based button grid controller for live music performance, inspired by hardware drum machines and live coding environments like Strudel/TidalCycles.
 
-![Strudel Controller Interface](assets/screenshot.jpg)
+![Strudel Controller Interface](assets/screenshot.png)
 
 ## About
 
